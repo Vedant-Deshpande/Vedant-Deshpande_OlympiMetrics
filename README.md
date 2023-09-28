@@ -15,16 +15,8 @@ The dataset includes statistics on athletes, countries, and events from every Ol
 Data sources:
 
 - [Athlete Events](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
-- [World GDP](https://www.kaggle.com/datasets/wvictor14/world-development-indicators)
-- [World Population](https://www.kaggle.com/datasets/sansuthi/world-population)
-
-## Notebooks
-
-The analysis is divided into the following notebooks:
-
-- [Data Cleaning](code/data_cleaning.ipynb): Handles missing values, fixes incorrect mappings, merges dataset with GDP and population data
-- [EDA](code/eda.ipynb): Visualizes medal tally over time, event-wise dominance, home advantage
-- [Modeling](code/modeling.ipynb): Uses linear regression and KNN models to predict medal counts and athlete sports  
+- [World GDP]([https://www.kaggle.com/datasets/wvictor14/world-development-indicators](https://www.kaggle.com/datasets/resulcaliskan/countries-gdps))
+- [World Population]([https://www.kaggle.com/datasets/sansuthi/world-population](https://www.kaggle.com/datasets/centurion1986/countries-population))
 
 ## Key Insights
 
@@ -38,9 +30,8 @@ The analysis is divided into the following notebooks:
 
 To replicate the analysis:
 
-1. Clone the repository
-2. Download the datasets and save within the `data` folder  
-3. Run the Jupyter notebooks in order
+1. Clone the repository 
+2. Run the Jupyter notebook
 
 The core libraries used include Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-learn.
 
