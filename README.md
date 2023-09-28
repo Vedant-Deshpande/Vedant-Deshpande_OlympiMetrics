@@ -15,8 +15,8 @@ The dataset includes statistics on athletes, countries, and events from every Ol
 Data sources:
 
 - [Athlete Events](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
-- [World GDP]([https://www.kaggle.com/datasets/wvictor14/world-development-indicators](https://www.kaggle.com/datasets/resulcaliskan/countries-gdps))
-- [World Population]([https://www.kaggle.com/datasets/sansuthi/world-population](https://www.kaggle.com/datasets/centurion1986/countries-population))
+- [World GDP]((https://www.kaggle.com/datasets/resulcaliskan/countries-gdps))
+- [World Population]((https://www.kaggle.com/datasets/centurion1986/countries-population))
 
 ## Key Insights
 
